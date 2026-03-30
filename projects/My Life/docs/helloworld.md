@@ -19,4 +19,4 @@ status: draft
 
 # helloworld
 
-this is a test... more mods again. Auto mod.
+this is a test... more mods again. Auto mod. Github mod.
