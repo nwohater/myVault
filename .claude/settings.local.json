@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__slatevault__list_projects",
+      "mcp__slatevault__list_documents"
+    ]
+  }
+}
